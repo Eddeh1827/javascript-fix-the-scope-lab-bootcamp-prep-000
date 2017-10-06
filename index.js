@@ -1,3 +1,1 @@
-function yourAnimal() {
-  return "dog";
-};
+var theFunk = funkyFunction()
